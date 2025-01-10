@@ -1,4 +1,4 @@
-this is main.
+this is mix.
 
 # 俄罗斯方块游戏设计思路
 
